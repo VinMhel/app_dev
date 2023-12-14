@@ -1,6 +1,6 @@
 # app_dev
 My first repository
-# Movie: <sub>John Wick</sub>
+# Movie: <link>John Wick</link>
 
 ## Genres
 - Action
@@ -8,7 +8,7 @@ My first repository
 - Crime
 
 ### Main Characters
-1. <sub>John Wick</sub> (played by <sub>Keanu Reeves</sub>)
-2. <sub>Viggo Tarasov</sub> (played by <sub>Michael Nyqvist</sub>)
-3. <sub>Winston</sub> (played by <sub>Ian McShane</sub>)
-4. <sub>Marcus</sub> (played by <sub>Willem Dafoe</sub>)
+1. <link>John Wick</link> (played by <link>Keanu Reeves</link>)
+2. <link>Viggo Tarasov</link> (played by <link>Michael Nyqvist</link>)
+3. <link>Winston</link> (played by <link>Ian McShane</link>)
+4. <link>Marcus</link> (played by <link>Willem Dafoe</link>)
